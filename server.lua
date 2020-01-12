@@ -1,7 +1,7 @@
 -------------------------------
 --- Fivem-Keybase-Anticheat ---
 -------------------------------
-ResourceWhitelistTrack = {}
+-- Change 'KEY-FOR-EVENT' for passwords you use to trigger the event and only ever trigger these events from the server side
 ProtectedServerEvents = {
 	{'KB-AC:UnprotectedExample:OOC', 'KEY-FOR-EVENT'},
 	{'', 'KEY-FOR-EVENT'},
